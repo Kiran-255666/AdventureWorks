@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"ProductCategoryID","INTEGER","2","2","0"
+"ParentProductCategoryID","STRING","1","0","0"
+"Name","STRING","17","0","0"
+"rowguid","STRING","36","0","0"
+"ModifiedDate","STRING","19","0","0"
