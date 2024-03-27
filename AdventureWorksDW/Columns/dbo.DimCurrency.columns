@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"CurrencyKey","INTEGER","3","3","0"
+"CurrencyAlternateKey","STRING","3","0","0"
+"CurrencyName","STRING","29","0","0"

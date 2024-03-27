@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"ProductKey","INTEGER","3","3","0"
+"CultureName","STRING","21","0","0"
+"ProductDescription","STRING","349","0","0"

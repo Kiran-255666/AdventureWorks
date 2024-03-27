@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"OrganizationKey","INTEGER","2","2","0"
+"ParentOrganizationKey","STRING","2","0","0"
+"PercentageOfOwnership","STRING","3","1","0"
+"OrganizationName","STRING","24","0","0"
+"CurrencyKey","INTEGER","3","3","0"

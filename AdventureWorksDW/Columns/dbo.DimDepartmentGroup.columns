@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"DepartmentGroupKey","INTEGER","1","1","0"
+"ParentDepartmentGroupKey","STRING","1","0","0"
+"DepartmentGroupName","STRING","36","0","0"

@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"ProductKey","INTEGER","3","3","0"
+"DateKey","INTEGER","8","8","0"
+"MovementDate","STRING","10","0","0"
+"UnitCost","DECIMAL","9","4","4"
+"UnitsIn","INTEGER","3","3","0"
+"UnitsOut","INTEGER","3","3","0"
+"UnitsBalance","INTEGER","4","3","0"

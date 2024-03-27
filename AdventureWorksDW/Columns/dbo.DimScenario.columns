@@ -1,0 +1,3 @@
+"name","type","length","leftDigits","rightDigits"
+"ScenarioKey","INTEGER","1","1","0"
+"ScenarioName","STRING","8","0","0"

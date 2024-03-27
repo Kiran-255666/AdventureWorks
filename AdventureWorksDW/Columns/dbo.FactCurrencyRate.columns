@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"CurrencyKey","INTEGER","3","3","0"
+"DateKey","INTEGER","8","8","0"
+"AverageRate","STRING","19","1","17"
+"EndOfDayRate","STRING","19","1","17"
+"Date","STRING","19","0","0"

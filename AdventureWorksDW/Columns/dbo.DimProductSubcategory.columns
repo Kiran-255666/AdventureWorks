@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"ProductSubcategoryKey","INTEGER","2","2","0"
+"ProductSubcategoryAlternateKey","INTEGER","2","2","0"
+"EnglishProductSubcategoryName","STRING","17","0","0"
+"SpanishProductSubcategoryName","STRING","23","0","0"
+"FrenchProductSubcategoryName","STRING","26","0","0"
+"ProductCategoryKey","INTEGER","1","1","0"

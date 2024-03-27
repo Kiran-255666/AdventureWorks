@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"SalesTerritoryKey","INTEGER","2","2","0"
+"SalesTerritoryAlternateKey","INTEGER","2","2","0"
+"SalesTerritoryRegion","STRING","14","0","0"
+"SalesTerritoryCountry","STRING","14","0","0"
+"SalesTerritoryGroup","STRING","13","0","0"
+"SalesTerritoryImage","STRING","110160","0","0"

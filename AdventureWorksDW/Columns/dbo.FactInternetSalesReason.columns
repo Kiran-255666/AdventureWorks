@@ -1,0 +1,4 @@
+"name","type","length","leftDigits","rightDigits"
+"SalesOrderNumber","STRING","7","0","0"
+"SalesOrderLineNumber","INTEGER","1","1","0"
+"SalesReasonKey","INTEGER","2","2","0"

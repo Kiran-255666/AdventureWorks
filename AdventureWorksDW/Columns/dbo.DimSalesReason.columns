@@ -1,0 +1,5 @@
+"name","type","length","leftDigits","rightDigits"
+"SalesReasonKey","INTEGER","2","2","0"
+"SalesReasonAlternateKey","INTEGER","2","2","0"
+"SalesReasonName","STRING","25","0","0"
+"SalesReasonReasonType","STRING","9","0","0"

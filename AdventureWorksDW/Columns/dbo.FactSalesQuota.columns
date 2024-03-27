@@ -1,0 +1,8 @@
+"name","type","length","leftDigits","rightDigits"
+"SalesQuotaKey","INTEGER","3","3","0"
+"EmployeeKey","INTEGER","3","3","0"
+"DateKey","INTEGER","8","8","0"
+"CalendarYear","INTEGER","4","4","0"
+"CalendarQuarter","INTEGER","1","1","0"
+"SalesAmountQuota","DECIMAL","12","7","4"
+"Date","STRING","19","0","0"
